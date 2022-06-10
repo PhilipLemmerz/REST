@@ -1,0 +1,6 @@
+{
+  "env": {
+    "MONGO_DB_KEY": "mongodb+srv://philipLemmerz:Penelope2202@cluster0.okhjbuk.mongodb.net/test"
+  }
+}
+
